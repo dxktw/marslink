@@ -1,5 +1,6 @@
 # Marslink
 
+![Marslink](https://github.com/RedisMadani/Marslink/assets/136177376/a65f91bf-2034-4703-a8a3-31fd0ba7be9c)
 
 ## Overview
 Marslink is a simple app that demonstrates the basic use of IGListKit, a data-driven UICollectionView framework developed by Instagram. It showcases essential features of IGListKit, including the use of adapters and section controllers to populate data and perform animations on collection views.
